@@ -5,8 +5,8 @@
 
 This is a Sonar based on the STM32 microcontroller. It uses the following parts:
 * STM32F428I-DISC1 Devboard
-* * Two hardware timers of the STM32 are implemented, one for measuring the ECHO of the ultrasonic sensor, one for generating the PWM to drive the servo
-* * One GPIO pin is implemented to send the trigger signal to the ultrasonic sensor
+** Two hardware timers of the STM32 are implemented, one for measuring the ECHO of the ultrasonic sensor, one for generating the PWM to drive the servo
+** One GPIO pin is implemented to send the trigger signal to the ultrasonic sensor
 * HC-SR04 ultrasonic sensor
 * Generic mini-servo motor
 
