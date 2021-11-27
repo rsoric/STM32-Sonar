@@ -1,0 +1,13 @@
+DMA.hpp:138:18:virtual void touchgfx::DMA_Interface::flush()	0	static
+STM32DMA.hpp:73:31:virtual touchgfx::DMAType STM32DMA::getDMAType()	0	static
+STM32DMA.hpp:109:18:virtual void STM32DMA::signalDMAInterrupt()	0	static
+STM32DMA.cpp:61:6:virtual void STM32DMA::initialize()	8	static
+STM32DMA.cpp:143:16:virtual touchgfx::BlitOperations STM32DMA::getBlitCaps()	0	static
+STM32DMA.cpp:43:17:void DMA2D_XferCpltCallback(DMA2D_HandleTypeDef*)	0	static
+STM32DMA.cpp:75:17:uint32_t STM32DMA::getChromARTInputFormat(touchgfx::Bitmap::BitmapFormat)	8	static
+STM32DMA.cpp:110:17:uint32_t STM32DMA::getChromARTOutputFormat(touchgfx::Bitmap::BitmapFormat)	8	static
+STM32DMA.cpp:166:6:virtual void STM32DMA::setupDataCopy(const touchgfx::BlitOp&)	32	static
+STM32DMA.cpp:335:6:virtual void STM32DMA::setupDataFill(const touchgfx::BlitOp&)	16	static
+STM32DMA.cpp:55:1:STM32DMA::~STM32DMA()	0	static,ignoring_inline_asm
+STM32DMA.cpp:55:1:virtual STM32DMA::~STM32DMA()	8	static
+STM32DMA.cpp:50:1:STM32DMA::STM32DMA()	16	static

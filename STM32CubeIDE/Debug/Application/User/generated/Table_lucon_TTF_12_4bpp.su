@@ -1,0 +1,2 @@
+Table_lucon_TTF_12_4bpp.cpp:33:168:void __tcf_0()	0	static
+Table_lucon_TTF_12_4bpp.cpp:31:26:touchgfx::GeneratedFont& getFont_lucon_TTF_12_4bpp()	64	static

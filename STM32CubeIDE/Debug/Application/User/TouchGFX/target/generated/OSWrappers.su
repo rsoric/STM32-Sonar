@@ -1,0 +1,10 @@
+OSWrappers.cpp:37:6:static void touchgfx::OSWrappers::initialize()	8	static
+OSWrappers.cpp:51:6:static void touchgfx::OSWrappers::takeFrameBufferSemaphore()	0	static
+OSWrappers.cpp:59:6:static void touchgfx::OSWrappers::giveFrameBufferSemaphore()	0	static
+OSWrappers.cpp:71:6:static void touchgfx::OSWrappers::tryTakeFrameBufferSemaphore()	0	static
+OSWrappers.cpp:83:6:static void touchgfx::OSWrappers::giveFrameBufferSemaphoreFromISR()	0	static
+OSWrappers.cpp:94:6:static void touchgfx::OSWrappers::signalVSync()	0	static
+OSWrappers.cpp:103:6:static void touchgfx::OSWrappers::signalRenderingDone()	0	static
+OSWrappers.cpp:114:6:static void touchgfx::OSWrappers::waitForVSync()	16	static
+OSWrappers.cpp:137:6:static void touchgfx::OSWrappers::taskDelay(uint16_t)	0	static
+OSWrappers.cpp:152:6:static void touchgfx::OSWrappers::taskYield()	0	static

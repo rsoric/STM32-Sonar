@@ -1,0 +1,8 @@
+Screen.hpp:104:18:virtual void touchgfx::Screen::afterTransition()	0	static
+Screen.hpp:154:18:virtual void touchgfx::Screen::handleKeyEvent(uint8_t)	0	static
+homeView.hpp:11:13:homeView::~homeView()	0	static
+homeView.cpp:25:6:virtual void homeView::tearDownScreen()	0	static
+homeView.cpp:20:6:virtual void homeView::setupScreen()	0	static
+homeView.cpp:30:6:virtual void homeView::handleTickEvent()	464	static
+homeView.hpp:11:13:virtual homeView::~homeView()	8	static
+homeView.cpp:15:1:homeView::homeView()	8	static

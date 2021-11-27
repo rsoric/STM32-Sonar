@@ -1,0 +1,2 @@
+PWM.c:13:6:PWM_init	80	static
+PWM.c:71:6:PWM_setPulse	48	static
