@@ -23,4 +23,4 @@ The following is a list which shows files that could be of interest to you if yo
 
 * More detailed code comments, explaining the workflow etc.
 * Calculation of the coordinates for the shapes on the screen that make up the sensor readings can be done in a separate thread. 
-* The calculated coordinates should really be saved in the 'zones' variable. Declaration of the array of TouchGFX shapes and their painters (PainterRGB565), required to update the screen, should also not be done in the screen refresh callback, but I've had trouble making it work that way.
+* The calculated coordinates should really be saved in the 'zones' variable. Also, declaration of the array of TouchGFX shapes and their painters (PainterRGB565) in the screen refresh callback function should really not have to be done over and over again, but I've had trouble doing it another way, this worked.
