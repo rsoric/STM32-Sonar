@@ -1,7 +1,7 @@
 # STM32 Sonar
 ![STM32 Sonar](https://i.imgur.com/Tw5jVzE.png)
 
-[Youtube](https://www.youtube.com/watch?v=_OT8yEqTaM0)
+[YouTube](https://www.youtube.com/watch?v=_OT8yEqTaM0)
 
 This is a Sonar based on the STM32 microcontroller. It uses the following parts:
 * STM32F428I-DISC1 Devboard
