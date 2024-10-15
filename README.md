@@ -1,3 +1,6 @@
+# IMPORTANT
+This is pretty old and was made when I was just getting into embedded programming. Hopefully it'll be useful as a demonstration, but I have no doubt it could be seriously optimized and written better.
+
 # STM32 Sonar
 ![STM32 Sonar](https://i.imgur.com/Tw5jVzE.png)
 
